@@ -1,0 +1,6 @@
+D:\New folder (3)\MCS\Summers\Visual Programming\AppProps\bin\Debug\AppProps.dll
+D:\New folder (3)\MCS\Summers\Visual Programming\AppProps\bin\Debug\AppProps.pdb
+D:\New folder (3)\MCS\Summers\Visual Programming\AppProps\obj\Debug\AppProps.csproj.AssemblyReference.cache
+D:\New folder (3)\MCS\Summers\Visual Programming\AppProps\obj\Debug\AppProps.csproj.CoreCompileInputs.cache
+D:\New folder (3)\MCS\Summers\Visual Programming\AppProps\obj\Debug\AppProps.dll
+D:\New folder (3)\MCS\Summers\Visual Programming\AppProps\obj\Debug\AppProps.pdb

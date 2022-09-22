@@ -1,0 +1,18 @@
+D:\New folder (3)\MCS\Summers\Visual Programming\summer task03\bin\Debug\summer task03.exe.config
+D:\New folder (3)\MCS\Summers\Visual Programming\summer task03\bin\Debug\summer task03.exe
+D:\New folder (3)\MCS\Summers\Visual Programming\summer task03\bin\Debug\summer task03.pdb
+D:\New folder (3)\MCS\Summers\Visual Programming\summer task03\obj\Debug\summer task03.csproj.AssemblyReference.cache
+D:\New folder (3)\MCS\Summers\Visual Programming\summer task03\obj\Debug\summer task03.csproj.SuggestedBindingRedirects.cache
+D:\New folder (3)\MCS\Summers\Visual Programming\summer task03\obj\Debug\summer_task03.Form1.resources
+D:\New folder (3)\MCS\Summers\Visual Programming\summer task03\obj\Debug\summer_task03.Properties.Resources.resources
+D:\New folder (3)\MCS\Summers\Visual Programming\summer task03\obj\Debug\summer task03.csproj.GenerateResource.cache
+D:\New folder (3)\MCS\Summers\Visual Programming\summer task03\obj\Debug\summer task03.csproj.CoreCompileInputs.cache
+D:\New folder (3)\MCS\Summers\Visual Programming\summer task03\obj\Debug\summer task03.exe
+D:\New folder (3)\MCS\Summers\Visual Programming\summer task03\obj\Debug\summer task03.pdb
+D:\New folder (3)\MCS\Summers\Visual Programming\summer task03\bin\Debug\AppProps.dll
+D:\New folder (3)\MCS\Summers\Visual Programming\summer task03\bin\Debug\BLL.dll
+D:\New folder (3)\MCS\Summers\Visual Programming\summer task03\bin\Debug\DAL.dll
+D:\New folder (3)\MCS\Summers\Visual Programming\summer task03\bin\Debug\AppProps.pdb
+D:\New folder (3)\MCS\Summers\Visual Programming\summer task03\bin\Debug\BLL.pdb
+D:\New folder (3)\MCS\Summers\Visual Programming\summer task03\bin\Debug\DAL.pdb
+D:\New folder (3)\MCS\Summers\Visual Programming\summer task03\obj\Debug\summer task03.csproj.CopyComplete
